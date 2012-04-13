@@ -15,7 +15,7 @@ public class MyProjectApplication extends Application {
 
 	@Override
 	public void init() {
-		final Window mainWindow = new Window("ty我的应用");
+		final Window mainWindow = new Window("ty鎴戠殑搴旂敤");
 		mainWindow.addComponent(new WindowOpener("Window Opener", mainWindow));
 		setMainWindow(mainWindow);
 	}

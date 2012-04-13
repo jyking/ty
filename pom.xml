@@ -12,11 +12,13 @@
 
     
 	<dependencies>
+		<!-- 已加入LIB目录
 		<dependency>
 			<groupId>com.vaadin</groupId>
 			<artifactId>vaadin</artifactId>
 			<version>6.7.6</version>
 		</dependency>
+		-->
 	</dependencies>
 
 	<build>

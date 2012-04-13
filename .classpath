@@ -8,5 +8,6 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="lib/vaadin-6.7.6.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

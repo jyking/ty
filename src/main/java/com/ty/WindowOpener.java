@@ -22,7 +22,7 @@ public class WindowOpener extends CustomComponent implements CloseListener {
 		mainwindow = main;
 		// The component contains a button that opens the window.
 		final VerticalLayout layout = new VerticalLayout();
-		openbutton = new Button("Open Window", this, "openButtonClick");
+		openbutton = new Button("Open Window11", this, "openButtonClick");
 		explanation = new Label("Explanation");
 		layout.addComponent(openbutton);
 		layout.addComponent(explanation);
